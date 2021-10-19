@@ -1,3 +1,1 @@
-#hi
-
 print("hello")
